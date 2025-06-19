@@ -4,7 +4,7 @@
 name = input("Please enter your name: ")
 age = int(input("Please enter your age: "))
 
-# Setting curent and future age...
+# Setting current and target year...
 current_year = 2025
 calculate_upto_year = 2035
 
